@@ -1,0 +1,306 @@
+[
+  {
+    "id": "3c91c57984b8465f9a93a38d3ebf9e11",
+    "sport_key": "basketball_nba",
+    "sport_title": "NBA",
+    "commence_time": "2024-03-06T00:10:00Z",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Orlando Magic",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2024-03-05T16:48:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:48:25Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 3.95
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2024-03-05T16:47:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:47:15Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.0
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2024-03-05T16:47:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:47:23Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.0
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2024-03-05T16:47:48Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:47:48Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.0
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2024-03-05T16:45:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:45:42Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.0
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.26
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2024-03-05T16:47:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:47:23Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 3.85
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2024-03-05T16:48:12Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:48:12Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.0
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2024-03-05T16:47:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:47:15Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.1
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2024-03-05T16:48:14Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:48:14Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.0
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2024-03-05T16:48:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:48:25Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 3.9
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2024-03-05T16:48:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:48:54Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 3.95
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2024-03-05T16:48:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:48:25Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 3.95
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-03-05T16:47:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:47:46Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.0
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2024-03-05T16:47:15Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-03-05T16:47:15Z",
+            "outcomes": [
+              {
+                "name": "Charlotte Hornets",
+                "price": 4.0
+              },
+              {
+                "name": "Orlando Magic",
+                "price": 1.27
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
